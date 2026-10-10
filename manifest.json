@@ -14,3 +14,11 @@
     }
   }
 }
+{
+  "hotfix_telemetry_manifest": {
+    "target_repo": "1kstacking/-robinhood-reality-showfinaltest",
+    "active_script": "app.py",
+    "patch_applied": "Removed custom CSS string multi-line wrapper logic to prevent syntax parsing tracebacks",
+    "pipeline_status": "HOTFIX_REBUILT_READY"
+  }
+}
