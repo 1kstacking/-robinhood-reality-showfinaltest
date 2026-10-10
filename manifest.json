@@ -1,0 +1,16 @@
+{
+  "repository_configuration_manifest": {
+    "target_repository_name": "1kstacking/-robinhood-reality-show2test",
+    "project_codename": "Project-Aether-Suite-v6",
+    "repository_description_metadata": "An advanced autonomous data trading dashboard featuring WebGL perspective animation canvas modules, broad index fund logs, and custom multi-asset transaction tracking structures optimized for long-term Robinhood portfolio auditing.",
+    "active_code_nodes": {
+      "execution_script": "app.py",
+      "dependency_manifest": "requirements.txt"
+    },
+    "automation_rules": {
+      "enforce_zero_leak_math": true,
+      "continuous_delivery_hooks": true,
+      "dynamic_session_data_persistence": true
+    }
+  }
+}
